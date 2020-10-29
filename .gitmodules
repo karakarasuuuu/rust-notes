@@ -1,0 +1,15 @@
+[submodule "functions"]
+	path = functions
+	url = ./functions
+[submodule "branches"]
+	path = branches
+	url = ./branches/
+[submodule "guessing_game"]
+	path = guessing_game
+	url = ./guessing_game/
+[submodule "ownership"]
+	path = ownership
+	url = ./ownership/
+[submodule "variables"]
+	path = variables
+	url = ./variables/
